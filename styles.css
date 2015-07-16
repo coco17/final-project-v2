@@ -1,0 +1,65 @@
+h1 {
+  font-family: Londrina Shadow;
+  font-size: 90px;
+
+}
+
+p {
+  font-family: 'Pacifico', cursive;
+}
+
+body {
+  font-family: helvetica;
+  color: purple;
+  margin: 0 auto;
+  width: 1000px;
+  background-image: url("http://img10.deviantart.net/1b14/i/2015/107/4/3/coco_kawaii___kuroshitsuji_by_titangamergirl-d8q2sdk.png");
+  background-size: 250px;
+  background-color: lightblue;
+}
+
+div {
+  background-image: url("http://dash.ga.co/assets/firstcourse.jpg");
+  background-size: cover;
+}
+
+p {
+  color: rgb(0, 0, 255);
+  font-size: 25px;
+}
+
+.first {
+  background-image: url("")
+
+}
+
+.second {
+  background-image: url("");
+}
+.third {
+  background-image: url("");
+}
+.fourth { 
+  background-image: url("");
+}
+
+
+
+
+.hellokitty {
+  float: ;
+  position: ;
+  right:250px;
+  top:0;
+  height: 150px;
+  width: 170px;
+}
+
+@media screen and (max-width: 600px) {
+    body {
+        background-color: lightblue;
+    }
+    p {
+      width: 200px;
+    }
+}
